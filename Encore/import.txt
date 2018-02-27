@@ -1,0 +1,4 @@
+importManagedAttribute 'Encore_Entitlements.csv'
+import 'Encore_EntitlementSOD.xml'
+import 'Encore_Roles.xml'
+import 'Encore_RoleSOD.xml'
