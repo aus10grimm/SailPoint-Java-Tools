@@ -38,13 +38,13 @@ public class SPFilter {
         for (String s : v_list) {
             int len = v_list.length;
             if (s == v_list[0]){
-                full = full + "\"" + s + "\"," ;
+                full = full + "\"" + s + "\";" ;
             }
             else if (s == v_list[len - 1]) {
               full = full + "\"" + s + "\"})";
             }
             else {
-               full = full + "\"" + s +  "\",";
+               full = full + "\"" + s +  "\";";
             }
                 
         }

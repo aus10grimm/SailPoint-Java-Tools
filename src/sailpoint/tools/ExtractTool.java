@@ -33,7 +33,7 @@ import java.util.logging.Logger;
  */
 public class ExtractTool {
     
-    private static final String BUNDLE_FILE_HEADER = "Role,Profile Description,Profile Filter(s),Profile Application";
+    private static final String BUNDLE_FILE_HEADER = "Role,Profile Description,Profile Filter(s),Profile Application,SoxCritical,Privileged";
     private static final String COMMA_DELIMITER = ",";
     private static final String NEW_LINE_SEPARATOR = "\n";
     private static final String SOD_FILE_HEADER = "Application,Entitlement,Conflict";
@@ -57,14 +57,23 @@ public class ExtractTool {
             //System.out.println(length);
             for(int i = 0; i < length; i++){
                 Element bundle = (Element)bundles.item(i);
+                String sox = new String();
+                String priv = new String();
                 String name = bundle.getAttribute("name");
+                NodeList entries = bundle.getElementsByTagName("Boolean");
+                Element privEl = (Element)entries.item(0);
+                Element soxEl = (Element)entries.item(0);
+                priv = privEl.getTextContent();
+                System.out.println(priv);
+                sox = soxEl.getTextContent();
+                System.out.println(sox);
                 String application = new String();
                 String description = new String();
                 //SPFilter profile = null;
                 String operation = new String();
                 String property = new String();
                 String cf_operation = new String();
-                //System.out.println(name);
+                System.out.println(name);
                 
                 Element AppRef = (Element)bundle.getElementsByTagName("ApplicationRef").item(0);
                 if (AppRef!=null){
@@ -105,10 +114,10 @@ public class ExtractTool {
                                 a[j] = items.item(j).getTextContent();
                             }
                             SPFilter profile = new SPFilter(operation, property, a);
-                            System.out.println(profile.toString());
+                            //System.out.println(profile.toString());
                             //filter_objs.add(fil);
-                            Bundle bund = new Bundle(name, description, profile, application); 
-            
+                            Bundle bund = new Bundle(name, description, profile, application, sox, priv); 
+                            System.out.println(bund.toString());
                             allBundles.add(bund);
                         }
                     
@@ -136,6 +145,10 @@ public class ExtractTool {
                 fileWriter.append("\'" + String.valueOf(bundle.getProfile().getFilter()) + "\'");
                 fileWriter.append(COMMA_DELIMITER);
                 fileWriter.append(String.valueOf(bundle.getApplication()));
+                fileWriter.append(COMMA_DELIMITER);
+                fileWriter.append(String.valueOf(bundle.getSox()));
+                fileWriter.append(COMMA_DELIMITER);
+                fileWriter.append(String.valueOf(bundle.getPriv()));
                 fileWriter.append(NEW_LINE_SEPARATOR);
             }
             
@@ -197,7 +210,7 @@ public class ExtractTool {
                         
                         
                         SOD sod = new SOD(app,ent,con);
-                        System.out.println(sod.toString());
+                        //System.out.println(sod.toString());
                         allSODs.add(sod);
                   
                     }

@@ -14,17 +14,21 @@ public class Bundle {
     private String description;
     private SPFilter profile;
     private String application;
+    private String sox;
+    private String priv;
     
-    public Bundle(String roleName, String description, SPFilter profile, String application){
+    public Bundle(String roleName, String description, SPFilter profile, String application, String sox, String priv){
         super();
         this.roleName = roleName;
         this.description = description;
         this.profile = profile;
         this.application = application;
+        this.sox = sox;
+        this.priv = priv;
     }
     
     public String toString() {
-        return "Bundle [roleName=" + roleName + ", description=" + description + ", profile=" + profile + ", application=" + application + "]";
+        return "Bundle [roleName=" + roleName + ", description=" + description + ", profile=" + profile + ", application=" + application + "SoxCritical=" + sox + "Priv=" + priv + "]";
     }
     
     public String getRoleName(){
@@ -43,5 +47,18 @@ public class Bundle {
         return  application;
     }
     
+    public String getSox(){
+        if(!sox.equals("")){
+            return  sox;
+        }
+        else{return "false";}
+    }
+     
+    public String getPriv(){
+        if(!priv.equals("")){
+            return  priv;
+        }
+        else{return "false";}
+    }
     
 }
