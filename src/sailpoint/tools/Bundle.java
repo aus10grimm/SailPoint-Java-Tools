@@ -16,8 +16,9 @@ public class Bundle {
     private String application;
     private String sox;
     private String priv;
+    private String owner;
     
-    public Bundle(String roleName, String description, SPFilter profile, String application, String sox, String priv){
+    public Bundle(String roleName, String description, SPFilter profile, String application, String sox, String priv, String owner){
         super();
         this.roleName = roleName;
         this.description = description;
@@ -25,10 +26,11 @@ public class Bundle {
         this.application = application;
         this.sox = sox;
         this.priv = priv;
+        this.owner = owner;
     }
     
     public String toString() {
-        return "Bundle [roleName=" + roleName + ", description=" + description + ", profile=" + profile + ", application=" + application + "SoxCritical=" + sox + "Priv=" + priv + "]";
+        return "Bundle [roleName=" + roleName + ", description=" + description + ", profile=" + profile + ", application=" + application + "SoxCritical=" + sox + "Priv=" + priv + "Owner=" + owner + "]";
     }
     
     public String getRoleName(){
@@ -59,6 +61,10 @@ public class Bundle {
             return  priv;
         }
         else{return "false";}
+    }
+    
+    public String getOwner(){
+        return owner;
     }
     
 }
