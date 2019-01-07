@@ -1,0 +1,4 @@
+importManagedAttribute 'IBM Algo Collateral_Entitlements.csv'
+import 'IBM Algo Collateral_EntitlementSOD.xml'
+import 'IBM Algo Collateral_Roles.xml'
+import 'IBM Algo Collateral_RoleSOD.xml'

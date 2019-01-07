@@ -94,16 +94,16 @@ public class SailPointTools {
         
         InputStream ExcelFileToRead = new FileInputStream(file);
 	XSSFWorkbook wb = new XSSFWorkbook(ExcelFileToRead);
-        XSSFSheet general = wb.getSheet("Report");
+        XSSFSheet general = wb.getSheet("Entitlements Form");
         XSSFSheet roleSheet = wb.getSheet("IT Roles Form data (RD)");
-        XSSFSheet entSheet = wb.getSheet("Entitlements Form data (RD)");
+        XSSFSheet entSheet = wb.getSheet("Entitlements Form");
         XSSFRow r_num = entSheet.getRow(8);
         XSSFCell ent_type_cell = r_num.getCell(1, Row.MissingCellPolicy.RETURN_BLANK_AS_NULL);
         entType = ent_type_cell.getStringCellValue();
         
         //App info
-        XSSFRow approw = general.getRow(0);
-        XSSFCell appcell = approw.getCell(1,Row.MissingCellPolicy.RETURN_BLANK_AS_NULL);
+        XSSFRow approw = general.getRow(2);
+        XSSFCell appcell = approw.getCell(2,Row.MissingCellPolicy.RETURN_BLANK_AS_NULL);
         appName = appcell.getStringCellValue();
         System.out.println(appName);
         File dir = new File(appName);
@@ -128,7 +128,7 @@ public class SailPointTools {
         }
         
         
-        if (isSheetEmpty(roleSheet)) {
+        if (roleSheet == null) {
             System.out.println("No Roles Defined");
         }
         else {
@@ -176,7 +176,7 @@ public class SailPointTools {
                 System.out.println("This is a null row");
             }
             else{
-                XSSFCell c = r.getCell(6, Row.MissingCellPolicy.RETURN_BLANK_AS_NULL);
+                XSSFCell c = r.getCell(11, Row.MissingCellPolicy.RETURN_BLANK_AS_NULL);
                 if ( (c == null) || (c.getStringCellValue() == "") ) {
                     //System.out.println(c.getStringCellValue());
                     //System.out.println("empty");
@@ -185,6 +185,7 @@ public class SailPointTools {
                     //System.out.println(c.getStringCellValue());
                     //System.out.println("not empty");
                     String cellvalue =  df.formatCellValue(c);
+                    //String cellvalue = c.getRawValue();
                     String[] entSOD = cellvalue.split(";"); 
                     XSSFCell entCell = r.getCell(3, Row.MissingCellPolicy.RETURN_BLANK_AS_NULL);
                     String ent = df.formatCellValue(entCell);
@@ -660,7 +661,7 @@ public class SailPointTools {
     byte[] bom = {(byte)0xEF, (byte)0xBB, (byte)0xBF};
     out.write(bom);
     {
-    Sheet sheet = wb.getSheet("CSV");
+    Sheet sheet = wb.getSheet("DO NOT TOUCH");
     for (int r = 0, rn = sheet.getLastRowNum() ; r <= rn ; r++) {
         Row row = sheet.getRow(r);
         if ( row == null ) { out.println(','); continue; }

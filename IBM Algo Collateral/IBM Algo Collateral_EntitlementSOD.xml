@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Policy PUBLIC "sailpoint.dtd" "sailpoint.dtd">
+<Policy certificationActions="Remediated,Mitigated,Delegated" configPage="entitlementPolicy.xhtml" executor="sailpoint.policy.EntitlementSODPolicyExecutor" name="SunTrust IBM Algo Collateral SoD Policy Violation" state="Active" type="EntitlementSOD" typeKey="policy_type_entitlement_sod" violationOwnerType="Manager">
+    <PolicyAlert escalationStyle="none">
+        <NotificationEmailTemplateRef>
+            <Reference class="sailpoint.object.EmailTemplate" name="Policy Violation"/>
+        </NotificationEmailTemplateRef>
+    </PolicyAlert>
+    <Attributes>
+        <Map>
+            <entry key="violationRule" value="SunTrust Policy Formatting Rule"/>
+        </Map>
+    </Attributes>
+    <Description>SoD Policy Vioation IBM Algo Collateral Application</Description>
+    <Owner>
+        <Reference class="sailpoint.object.Identity" name="Technology Risk and Compliance"/>
+    </Owner>
+    <GenericConstraints>
+        <GenericConstraint name="IBM Algo Collateral SoD Policy Violation of AddedAlgoTasks" violationOwnerType="None">
+            <Description>Conflicting entitlements</Description>
+            <RemediationAdvice>Navigate to Manage --&amp;gt; Policy Violations to take the corrective measures to either revoke or allow the policy violation.</RemediationAdvice>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="AddedAlgoTasks">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="Manager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="SuperUser">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+        </GenericConstraint>
+        <GenericConstraint name="IBM Algo Collateral SoD Policy Violation of Analyst" violationOwnerType="None">
+            <Description>Conflicting entitlements</Description>
+            <RemediationAdvice>Navigate to Manage --&amp;gt; Policy Violations to take the corrective measures to either revoke or allow the policy violation.</RemediationAdvice>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="Analyst">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="Doc Group">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="DocTeamManager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Manager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Payments">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="SuperUser">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+        </GenericConstraint>
+        <GenericConstraint name="IBM Algo Collateral SoD Policy Violation of CollateralTeamMgr" violationOwnerType="None">
+            <Description>Conflicting entitlements</Description>
+            <RemediationAdvice>Navigate to Manage --&amp;gt; Policy Violations to take the corrective measures to either revoke or allow the policy violation.</RemediationAdvice>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="CollateralTeamMgr">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="Doc Group">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="DocTeamManager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Manager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Payments">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="SuperUser">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+        </GenericConstraint>
+        <GenericConstraint name="IBM Algo Collateral SoD Policy Violation of Data Maint" violationOwnerType="None">
+            <Description>Conflicting entitlements</Description>
+            <RemediationAdvice>Navigate to Manage --&amp;gt; Policy Violations to take the corrective measures to either revoke or allow the policy violation.</RemediationAdvice>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="Data Maint">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="Manager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="SuperUser">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+        </GenericConstraint>
+        <GenericConstraint name="IBM Algo Collateral SoD Policy Violation of Doc Group" violationOwnerType="None">
+            <Description>Conflicting entitlements</Description>
+            <RemediationAdvice>Navigate to Manage --&amp;gt; Policy Violations to take the corrective measures to either revoke or allow the policy violation.</RemediationAdvice>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="Doc Group">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="Analyst">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="CollateralTeamMgr">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Manager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Payments">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Settlements">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="SuperUser">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+        </GenericConstraint>
+        <GenericConstraint name="IBM Algo Collateral SoD Policy Violation of DocTeamManager" violationOwnerType="None">
+            <Description>Conflicting entitlements</Description>
+            <RemediationAdvice>Navigate to Manage --&amp;gt; Policy Violations to take the corrective measures to either revoke or allow the policy violation.</RemediationAdvice>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="DocTeamManager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="Analyst">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="CollateralTeamMgr">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Manager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Payments">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Settlements">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="SuperUser">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+        </GenericConstraint>
+        <GenericConstraint name="IBM Algo Collateral SoD Policy Violation of ReadOnly" violationOwnerType="None">
+            <Description>Conflicting entitlements</Description>
+            <RemediationAdvice>Navigate to Manage --&amp;gt; Policy Violations to take the corrective measures to either revoke or allow the policy violation.</RemediationAdvice>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="ReadOnly">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="Analyst">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="CollateralTeamMgr">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Doc Group">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="DocTeamManager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Manager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="SeniorManager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Settlements">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="SuperUser">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+        </GenericConstraint>
+        <GenericConstraint name="IBM Algo Collateral SoD Policy Violation of SeniorManager" violationOwnerType="None">
+            <Description>Conflicting entitlements</Description>
+            <RemediationAdvice>Navigate to Manage --&amp;gt; Policy Violations to take the corrective measures to either revoke or allow the policy violation.</RemediationAdvice>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="SeniorManager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="Manager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="SuperUser">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+        </GenericConstraint>
+        <GenericConstraint name="IBM Algo Collateral SoD Policy Violation of Settlements" violationOwnerType="None">
+            <Description>Conflicting entitlements</Description>
+            <RemediationAdvice>Navigate to Manage --&amp;gt; Policy Violations to take the corrective measures to either revoke or allow the policy violation.</RemediationAdvice>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="Settlements">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="Manager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Payments">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="SuperUser">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+        </GenericConstraint>
+        <GenericConstraint name="IBM Algo Collateral SoD Policy Violation of Payments" violationOwnerType="None">
+            <Description>Conflicting entitlements</Description>
+            <RemediationAdvice>Navigate to Manage --&amp;gt; Policy Violations to take the corrective measures to either revoke or allow the policy violation.</RemediationAdvice>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="Payments">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+            <IdentitySelector>
+                <MatchExpression>
+                    <MatchTerm name="Role" value="AddedAlgoTasks">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Analyst">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="CollateralTeamMgr">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Data Maint">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Doc Group">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="DocTeamManager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Manager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="ReadOnly">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="SeniorManager">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                    <MatchTerm name="Role" value="Settlements">
+                        <ApplicationRef>
+                            <Reference class="sailpoint.object.Application" name="IBM Algo Collateral"/>
+                        </ApplicationRef>
+                    </MatchTerm>
+                </MatchExpression>
+            </IdentitySelector>
+        </GenericConstraint>
+    </GenericConstraints>
+</Policy>

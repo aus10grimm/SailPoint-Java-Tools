@@ -50,17 +50,17 @@ public class Bundle {
     }
     
     public String getSox(){
-        if(!sox.equals("")){
-            return  sox;
+        if(sox.equals("true")){
+            return  "TRUE";
         }
-        else{return "false";}
+        else{return "FALSE";}
     }
      
     public String getPriv(){
-        if(!priv.equals("")){
-            return  priv;
+        if(priv.equals("true")){
+            return  "TRUE";
         }
-        else{return "false";}
+        else{return "FALSE";}
     }
     
     public String getOwner(){

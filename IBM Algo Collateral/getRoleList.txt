@@ -1,0 +1,1 @@
+search bundle id where application 'IBM Algo Collateral' > roleList.txt

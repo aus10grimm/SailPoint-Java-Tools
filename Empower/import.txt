@@ -1,0 +1,4 @@
+importManagedAttribute 'Empower_Entitlements.csv'
+import 'Empower_EntitlementSOD.xml'
+import 'Empower_Roles.xml'
+import 'Empower_RoleSOD.xml'

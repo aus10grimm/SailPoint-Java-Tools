@@ -1,0 +1,1 @@
+search bundle id where application 'MICROSOFT TEAM FOUNDATION SERVER' > roleList.txt

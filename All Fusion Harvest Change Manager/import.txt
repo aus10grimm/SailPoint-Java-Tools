@@ -1,0 +1,4 @@
+importManagedAttribute 'All Fusion Harvest Change Manager_Entitlements.csv'
+import 'All Fusion Harvest Change Manager_EntitlementSOD.xml'
+import 'All Fusion Harvest Change Manager_Roles.xml'
+import 'All Fusion Harvest Change Manager_RoleSOD.xml'

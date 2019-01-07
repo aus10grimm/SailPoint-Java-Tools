@@ -54,7 +54,7 @@ public class ExtractTool {
             Document doc = dBuilder.parse(file);
             NodeList bundles = doc.getElementsByTagName("Bundle");
             int length = bundles.getLength();
-            //System.out.println(length);
+            System.out.println(length);
             for(int i = 0; i < length; i++){
                 Element bundle = (Element)bundles.item(i);
                 String sox = new String();
@@ -124,7 +124,7 @@ public class ExtractTool {
                             //System.out.println(profile.toString());
                             //filter_objs.add(fil);
                             Bundle bund = new Bundle(name, description, profile, application, sox, priv, owner); 
-                            //System.out.println(bund.toString());
+                            System.out.println(bund.toString());
                             allBundles.add(bund);
                         }
                     

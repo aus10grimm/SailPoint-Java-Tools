@@ -1,0 +1,1 @@
+rule DeleteEntitlements 'All Fusion Harvest Change Manager.xml'

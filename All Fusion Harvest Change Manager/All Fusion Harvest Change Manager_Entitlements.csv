@@ -1,0 +1,1108 @@
+﻿# attribute, value, displayName, owner, requestable, SOXRelevant,Privileged,Exclude,en_US
+# application=All Fusion Harvest Change Manager,,,,,,,,
+memberOf,"CN=RL.App.Harvest.Administrators.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Administrators,A9SN3,TRUE,TRUE,TRUE,FALSE,Harvest Administrators
+memberOf,"CN=RL.App.Harvest.EntChgMgMnt.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.EntChgMgMnt.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: EntChgMgMnt.
+memberOf,"CN=RL.App.Harvest.Test_Release.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.Test_Release.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: Test_Release
+memberOf,"CN=rl.app.harvest.softwareconfigmgmnt.approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.softwareconfigmgmnt.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Used by Software Configuration Managers for Software Builds
+memberOf,"CN=RL.App.Harvest.bdo.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.bdo.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: bdo
+memberOf,"CN=RL.App.Harvest.CBI.Approvers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.CBI.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Software Configuration Management Approvers used to approve packages to move to all environments
+memberOf,"CN=RL.App.Harvest.ChannelApplications.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.ChannelApplications.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: ChannelApplications.
+memberOf,"CN=RL.App.Harvest.DIL.Approvers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.DIL.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: DIL.
+memberOf,"CN=RL.App.Harvest.EnterpriseApplications.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.EnterpriseApplications.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: EnterpriseApplications.
+memberOf,"CN=RL.App.Harvest.FSU.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.FSU.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: FSU.
+memberOf,"CN=RL.App.Harvest.H800A.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.H800A.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: H800A.
+memberOf,"CN=RL.App.Harvest.H801.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.H801.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: H801.
+memberOf,"CN=RL.App.Harvest.H810.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.H810.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: H810.
+memberOf,"CN=RL.App.Harvest.H811.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.H811.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: H811.
+memberOf,"CN=RL.App.Harvest.H812.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.H812.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: H812.
+memberOf,"CN=RL.App.Harvest.Investmentmanagement.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.Investmentmanagement.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: Investmentmanagement.
+memberOf,"CN=RL.App.Harvest.itk.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.itk.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: ITK
+memberOf,"CN=RL.App.Harvest.LendingApplications.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.LendingApplications.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: LendingApplications
+memberOf,"CN=RL.App.Harvest.MBIO.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.MBIO.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: MBIO
+memberOf,"CN=RL.App.Harvest.OnlineApplications.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.OnlineApplications.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: OnlineApplications
+memberOf,"CN=RL.App.Harvest.PBP.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.PBP.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: PBP
+memberOf,"CN=RL.App.Harvest.QLn.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qln.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLN
+memberOf,"CN=RL.App.Harvest.QLn.QA.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qln.QA.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLN QA
+memberOf,"CN=RL.App.Harvest.QLn_AUDIT.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qln_AUDIT.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLN AUDIT
+memberOf,"CN=RL.App.Harvest.QLn_CIB.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qln_CIB.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLN CIB
+memberOf,"CN=RL.App.Harvest.QLn_COE.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qln_coe.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLN COE
+memberOf,"CN=RL.App.Harvest.QLn_Consumer.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qln_consumer.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLN Consumer
+memberOf,"CN=RL.App.Harvest.QLn_EIS.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qln_eis.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLN EIS
+memberOf,"CN=RL.App.Harvest.QLn_Finance.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qln_finance.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLN Finance
+memberOf,"CN=RL.App.Harvest.QLn_HR.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qln_hr.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLN HR
+memberOf,"CN=RL.App.Harvest.QLn_Marketing.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qln_marketing.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLN Marketing
+memberOf,"CN=RL.App.Harvest.QLn_Mortgage.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qln_mortgage.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLN Mortgage
+memberOf,"CN=RL.App.Harvest.QLn_Risk.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qln_risk.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLN Risk
+memberOf,"CN=RL.App.Harvest.QLn_Wholesale.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qln_wholesale.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLN Wholesale
+memberOf,"CN=RL.App.Harvest.QLS.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qls.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLS
+memberOf,"CN=RL.App.Harvest.QLS.QA.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qls.QA.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLS QA
+memberOf,"CN=RL.App.Harvest.QLS_AUDIT.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qls_AUDIT.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLS AUDIT
+memberOf,"CN=RL.App.Harvest.QLS_CIB.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qls_CIB.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLS CIB
+memberOf,"CN=RL.App.Harvest.QLS_COE.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qls_coe.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLS COE
+memberOf,"CN=RL.App.Harvest.QLS_Consumer.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qls_consumer.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLS Consumer
+memberOf,"CN=RL.App.Harvest.QLS_EIS.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qls_eis.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLS EIS
+memberOf,"CN=RL.App.Harvest.QLS_Finance.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qls_finance.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLS Finance
+memberOf,"CN=RL.App.Harvest.QLS_HR.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qls_hr.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLS HR
+memberOf,"CN=RL.App.Harvest.QLS_Marketing.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qls_marketing.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLS Marketing
+memberOf,"CN=RL.App.Harvest.QLS_Risk.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qls_risk.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLS Risk
+memberOf,"CN=RL.App.Harvest.QLS_Wholesale.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qls_wholesale.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLS Wholesale
+memberOf,"CN=RL.App.Harvest.QLV.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qlv.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLV
+memberOf,"CN=RL.App.Harvest.QLV.QA.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qlv.QA.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLV QA
+memberOf,"CN=RL.App.Harvest.QLV_audit.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qlv_audit.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLV Audit
+memberOf,"CN=rl.app.harvest.qlv_cib.approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qlv_cib.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLV CIB
+memberOf,"CN=RL.App.Harvest.QLV_COE.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qlv_coe.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLV COE
+memberOf,"CN=RL.App.Harvest.QLV_Consumer.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qlv_consumer.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLV Consumer
+memberOf,"CN=RL.App.Harvest.QLV_EIS.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qlv_eis.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLV EIS
+memberOf,"CN=RL.App.Harvest.QLV_Finance.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qlv_finance.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLV Finance
+memberOf,"CN=RL.App.Harvest.QLV_HR.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qlv_hr.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLV HR
+memberOf,"CN=RL.App.Harvest.QLV_Marketing.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qlv_marketing.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLV Marketing
+memberOf,"CN=RL.App.Harvest.QLV_Mortgage.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qlv_mortgage.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLV Mortgage
+memberOf,"CN=RL.App.Harvest.QLV_Risk.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qlv_risk.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLV Risk
+memberOf,"CN=RL.App.Harvest.QLV_Wholesale.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qlv_wholesale.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLV Wholesale
+memberOf,"CN=RL.App.Harvest.RDR.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.RDR.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: RDR
+memberOf,"CN=rl.app.harvest.releasemgmnt.approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.releasemgmnt.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used execute functions for Release Management. Not used as approval to move packages.
+memberOf,"CN=RL.App.Harvest.RJ.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.RJ.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: RJ
+memberOf,"CN=RL.App.Harvest.SCT.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.SCT.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: SCT
+memberOf,"CN=RL.App.Harvest.SD.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.SD.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: SD
+memberOf,"CN=RL.APP.Harvest.AVP.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.APP.Harvest.AVP.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: AVP
+memberOf,"CN=RL.App.Harvest.TechnologyApplications.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.TechnologyApplications.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: TechnologyApplications
+memberOf,"CN=RL.App.Harvest.TechnologyRiskComplianceApplications.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.TechnologyRiskComplianceApplications.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: TechnologyRiskComplianceApplications
+memberOf,"CN=RL.App.Harvest.TreasuryandPaymentsApplications.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.TreasuryandPaymentsApplications.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: TreasuryandPaymentsApplications
+memberOf,"CN=RL.App.Harvest.TreasuryFinance.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.TreasuryFinance.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: TreasuryFinance
+memberOf,"CN=RL.App.Harvest.TDX.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code RL.App.Harvest.TDX.Approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: TDX
+memberOf,"CN=RL.App.Harvest.ETRM.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.etrm.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: ETRM
+memberOf,"CN=RL.App.Harvest.H8V.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.h8v.approvers,A9SN3,TRUE,FALSE,FALSE,TRUE,Application Approvers used to approve packages to move to all environments: H8V
+memberOf,"CN=rl.app.harvest.qaonly.approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qaonly.approvers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QA Only
+memberOf,"CN=RL.App.Harvest.QLS_Mortgage.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.qls_mortgage.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: QLS Mortgage
+memberOf,"CN=rl.app.harvest.scmleads.approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.scmleads.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: SCM Leads
+memberOf,"CN=RL.APP.Harvest.TR.Approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.tr.approvers,A9SN3,TRUE,FALSE,FALSE,TRUE,Application Approvers used to approve packages to move to all environments: TR
+memberOf,"CN=rl.app.harvest.tr_ecm.approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.tr_ecm.approvers,A9SN3,TRUE,FALSE,FALSE,TRUE,Application Approvers used to approve packages to move to all environments: TR ECM
+memberOf,"CN=rl.app.harvest.tr_eto.approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",Approve Code rl.app.harvest.tr_eto.approvers,A9SN3,TRUE,FALSE,FALSE,TRUE,Application Approvers used to approve packages to move to all environments: TR ETO
+memberOf,"CN=RL.App.Harvest.AB.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ab.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: AB
+memberOf,"CN=RL.App.Harvest.ACA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.aca.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ACA
+memberOf,"CN=RL.App.Harvest.ACP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.acp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ACP
+memberOf,"CN=RL.App.Harvest.ACR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.acr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ACR
+memberOf,"CN=RL.App.Harvest.ACT.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.act.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ACT
+memberOf,"CN=RL.App.Harvest.ACX.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.acx.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ACX
+memberOf,"CN=rl.app.harvest.adm.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.adm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ADM
+memberOf,"CN=rl.app.harvest.ado.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ado.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ADO
+memberOf,"CN=RL.APP.Harvest.ADV.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.adv.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ADV
+memberOf,"CN=rl.app.harvest.aed.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.aed.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: AED
+memberOf,"CN=RL.APP.Harvest.AGV.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.agv.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: AGV
+memberOf,"CN=RL.App.Harvest.AJ.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.aj.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: AJ
+memberOf,"CN=RL.App.Harvest.AL.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.al.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: AL
+memberOf,"CN=rl.app.harvest.alb.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.alb.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ALB
+memberOf,"CN=RL.App.Harvest.ALX.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.alx.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ALX
+memberOf,"CN=RL.App.Harvest.AMR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.amr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: AMR
+memberOf,"CN=RL.App.Harvest.ANV.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.anv.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ANV
+memberOf,"CN=RL.App.Harvest.Ap.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ap.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: AP
+memberOf,"CN=RL.App.Harvest.APG.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.apg.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: APG
+memberOf,"CN=RL.App.Harvest.APX.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.apx.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: APX
+memberOf,"CN=rl.app.harvest.apy.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.apy.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: APY
+memberOf,"CN=RL.App.Harvest.ASE.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ase.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ASE
+memberOf,"CN=RL.App.Harvest.At.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.at.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: AT
+memberOf,"CN=RL.APP.Harvest.ATF.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.atf.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ATF
+memberOf,"CN=RL.APP.Harvest.ATK.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.atk.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ATK
+memberOf,"CN=RL.APP.Harvest.ATM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.atm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ATM
+memberOf,"CN=rl.app.harvest.atn.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.atn.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ATN
+memberOf,"CN=RL.App.Harvest.AV.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.av.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: AV
+memberOf,"CN=RL.App.Harvest.AVB.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.avb.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: AVB
+memberOf,"CN=RL.App.Harvest.AVP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.avp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: AVP
+memberOf,"CN=RL.App.Harvest.AWD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.awd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: AWD
+memberOf,"CN=RL.APP.Harvest.AZ.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.az.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: AZ
+memberOf,"CN=RL.APP.Harvest.B7.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.b7.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: B7
+memberOf,"CN=RL.App.Harvest.B9.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.b9.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: B9
+memberOf,"CN=RL.App.Harvest.BA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ba.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BA
+memberOf,"CN=RL.App.Harvest.BCB.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.bcb.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BCB
+memberOf,"CN=RL.App.Harvest.BCF.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.bcf.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BCF
+memberOf,"CN=rl.app.harvest.bco.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.bco.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BCO
+memberOf,"CN=RL.App.Harvest.BDO.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.bdo.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BDO
+memberOf,"CN=rl.app.harvest.bj.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.bj.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BJ
+memberOf,"CN=RL.App.Harvest.BLK.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.blk.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BLK
+memberOf,"CN=RL.App.Harvest.Blt.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.blt.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BLT
+memberOf,"CN=RL.App.Harvest.BLU.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.blu.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BLU
+memberOf,"CN=RL.App.Harvest.BNE.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.bne.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BNE
+memberOf,"CN=RL.App.Harvest.BPE.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.bpe.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BPE
+memberOf,"CN=RL.App.Harvest.BT.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.bt.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BT
+memberOf,"CN=RL.App.Harvest.BTS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.bts.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BTS
+memberOf,"CN=RL.App.Harvest.BX0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.bx0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BX0
+memberOf,"CN=RL.App.Harvest.BX1.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.bx1.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BxX1
+memberOf,"CN=RL.App.Harvest.BZ.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.bz.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BZ
+memberOf,"CN=RL.App.Harvest.BZB.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.bzb.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BZB
+memberOf,"CN=RL.App.Harvest.BZD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.bzd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BZD
+memberOf,"CN=RL.App.Harvest.CAL.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cal.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CAL
+memberOf,"CN=RL.App.Harvest.Car.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.car.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CAR
+memberOf,"CN=RL.App.Harvest.CAV.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cav.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CAV
+memberOf,"CN=Rl.App.Harvest.Caw.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.caw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CAW
+memberOf,"CN=RL.App.Harvest.Cbd.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cbd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CBD
+memberOf,"CN=RL.App.Harvest.CBI.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cbi.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CBI
+memberOf,"CN=RL.APP.Harvest.CBM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cbm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CBM
+memberOf,"CN=RL.App.Harvest.CC0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cc0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CC0
+memberOf,"CN=rl.app.harvest.ccb.developers,OU=Users,OU=Roles,OU=Unix,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ccb.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CCB
+memberOf,"CN=RL.App.Harvest.CCE.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cce.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CCE
+memberOf,"CN=rl.app.harvest.ccl.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ccl.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CCI
+memberOf,"CN=RL.APP.Harvest.CCN.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ccn.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CCN
+memberOf,"CN=RL.App.Harvest.CDD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cdd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CDD
+memberOf,"CN=RL.App.Harvest.CDO.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cdo.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CDO
+memberOf,"CN=RL.App.Harvest.CDS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cds.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CDS
+memberOf,"CN=RL.App.Harvest.CDW.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cdw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CDW
+memberOf,"CN=rl.app.harvest.cfd.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cfd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CFD
+memberOf,"CN=RL.App.Harvest.CGS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cgs.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CGS
+memberOf,"CN=rl.app.harvest.cha.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cha.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CHA
+memberOf,"CN=RL.App.Harvest.CIC.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cic.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CIC
+memberOf,"CN=RL.APP.Harvest.CIR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cir.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CIS
+memberOf,"CN=RL.App.Harvest.CIS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cis.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CKR
+memberOf,"CN=RL.App.Harvest.CKR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ckr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CLA
+memberOf,"CN=RL.App.Harvest.CLA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cla.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CLB
+memberOf,"CN=RL.App.Harvest.CLB.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.clb.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CLC
+memberOf,"CN=rl.app.harvest.clc.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.clc.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CLD
+memberOf,"CN=RL.App.Harvest.CLD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cld.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CLH
+memberOf,"CN=RL.App.Harvest.CLH.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.clh.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CLO
+memberOf,"CN=RL.App.Harvest.CLO.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.clo.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CLQ
+memberOf,"CN=RL.App.Harvest.CLQ.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.clq.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CLQ
+memberOf,"CN=RL.App.Harvest.CLR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.clr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CIR
+memberOf,"CN=RL.App.Harvest.CLU.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.clu.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CLU
+memberOf,"CN=RL.App.Harvest.CLY.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cly.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CLY
+memberOf,"CN=rl.app.harvest.clz.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.clz.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CLZ
+memberOf,"CN=RL.APP.Harvest.CMA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cma.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CMA
+memberOf,"CN=RL.App.Harvest.CMB.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cmb.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CMB
+memberOf,"CN=RL.App.Harvest.CMX.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cmx.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CMX
+memberOf,"CN=RL.App.Harvest.CN.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cn.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CN
+memberOf,"CN=RL.App.Harvest.CNS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cns.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CNS
+memberOf,"CN=rl.app.harvest.co3.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.co3.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CO3
+memberOf,"CN=RL.APP.Harvest.COD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cod.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: COD
+memberOf,"CN=RL.App.Harvest.COL.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.col.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: COL
+memberOf,"CN=RL.App.Harvest.CON.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.con.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CON
+memberOf,"CN=RL.App.Harvest.COP.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cop.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: COP
+memberOf,"CN=rl.app.harvest.cor.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cor.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: COR
+memberOf,"CN=RL.App.Harvest.CPB.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cpb.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CPB
+memberOf,"CN=RL.APP.Harvest.CPI.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cpi.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CPI
+memberOf,"CN=RL.APP.Harvest.CPP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cpp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CPP
+memberOf,"CN=RL.App.Harvest.CPT.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cpt.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CPT
+memberOf,"CN=rl.app.harvest.cpw.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cpw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CPW
+memberOf,"CN=RL.App.Harvest.CRF.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.crf.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CRF
+memberOf,"CN=RL.APP.Harvest.CRT.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.crt.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CRT
+memberOf,"CN=RL.App.Harvest.CRW.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.crw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CRW
+memberOf,"CN=RL.App.Harvest.CSI.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.csi.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CSI
+memberOf,"CN=RL.App.Harvest.CSM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.csm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CSM
+memberOf,"CN=RL.App.Harvest.CSP.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.csp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CSP
+memberOf,"CN=RL.App.Harvest.CU.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cu.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CU
+memberOf,"CN=RL.App.Harvest.CUE.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cue.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CUE
+memberOf,"CN=RL.App.Harvest.Cup.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cup.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CUP
+memberOf,"CN=RL.App.Harvest.CVA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cva.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CVA
+memberOf,"CN=rl.app.harvest.cvm.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cvm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CVM
+memberOf,"CN=RL.App.Harvest.CYB.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cyb.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CYB
+memberOf,"CN=RL.APP.Harvest.DAR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dar.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: D
+memberOf,"CN=RL.App.Harvest.DAT.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dat.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DAT
+memberOf,"CN=RL.APP.Harvest.DBR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dbr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DBR
+memberOf,"CN=RL.App.Harvest.DCF.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dcf.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DCF
+memberOf,"CN=RL.App.Harvest.DCO.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dco.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DCO
+memberOf,"CN=RL.App.Harvest.DCR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dcr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DCR
+memberOf,"CN=RL.App.Harvest.DCX.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dcx.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DCX
+memberOf,"CN=RL.App.Harvest.DDT.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ddt.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DDT
+memberOf,"CN=rl.app.harvest.dfc.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dfc.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DFC
+memberOf,"CN=RL.App.Harvest.DFS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dfs.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DFS
+memberOf,"CN=RL.App.Harvest.DHD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dhd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DHD
+memberOf,"CN=RL.App.Harvest.DIL.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dil.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DIL
+memberOf,"CN=RL.App.Harvest.Dir.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dir.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DIR
+memberOf,"CN=RL.App.Harvest.DJ.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dj.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DJ
+memberOf,"CN=RL.App.Harvest.DNX.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dnx.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DNX
+memberOf,"CN=RL.App.Harvest.DOR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dor.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DOR
+memberOf,"CN=RL.App.Harvest.DPA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dpa.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DPA
+memberOf,"CN=RL.App.Harvest.DPP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dpp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DPP
+memberOf,"CN=RL.App.Harvest.DPS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dps.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DPS
+memberOf,"CN=rl.app.harvest.dr.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DR
+memberOf,"CN=rl.app.harvest.dre.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dre.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DRE
+memberOf,"CN=RL.App.Harvest.DRI.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dri.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DRI
+memberOf,"CN=RL.App.Harvest.drm.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.drm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DRM
+memberOf,"CN=RL.App.Harvest.DRT.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.drt.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DRT
+memberOf,"CN=RL.App.Harvest.e0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.e0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: E0
+memberOf,"CN=RL.App.Harvest.E1.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.e1.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: E1
+memberOf,"CN=RL.App.Harvest.E3.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.e3.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: E3
+memberOf,"CN=RL.App.Harvest.E5.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.e5.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: E5
+memberOf,"CN=RL.App.Harvest.E8.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.e8.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: E8
+memberOf,"CN=rl.app.harvest.ebo.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ebo.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EBO
+memberOf,"CN=RL.App.Harvest.ECC.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ecc.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ECC
+memberOf,"CN=RL.App.Harvest.ECR.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ecr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ECR
+memberOf,"CN=RL.App.Harvest.ECT.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ect.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ECT
+memberOf,"CN=RL.App.Harvest.ED.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ed.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ED
+memberOf,"CN=RL.App.Harvest.EES.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ees.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EES
+memberOf,"CN=RL.App.Harvest.EFI.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.efi.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EFI
+memberOf,"CN=RL.App.Harvest.EFM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.efm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EFM
+memberOf,"CN=RL.App.Harvest.EFP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.efp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EFP
+memberOf,"CN=RL.App.Harvest.EFS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.efs.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EFS
+memberOf,"CN=RL.APP.Harvest.EG.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.eg.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EG
+memberOf,"CN=RL.App.Harvest.EGN.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.egn.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EGN
+memberOf,"CN=RL.App.Harvest.EI0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ei0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EI0
+memberOf,"CN=RL.App.Harvest.EIR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.eir.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EIR
+memberOf,"CN=RL.App.Harvest.EJ.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ej.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EJ
+memberOf,"CN=RL.App.Harvest.EL.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.el.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EL
+memberOf,"CN=RL.App.Harvest.ELG.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.elg.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ELG
+memberOf,"CN=RL.App.Harvest.EMA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ema.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EMA
+memberOf,"CN=RL.APP.Harvest.EMB.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.emb.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EMB
+memberOf,"CN=RL.App.Harvest.EME.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.eme.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EME
+memberOf,"CN=RL.APP.Harvest.EMO.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.emo.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EMO
+memberOf,"CN=RL.App.Harvest.EMP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.emp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EMP
+memberOf,"CN=RL.APP.Harvest.EMT.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.emt.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EMT
+memberOf,"CN=RL.App.Harvest.EN.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.en.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EN
+memberOf,"CN=RL.App.Harvest.Ep0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ep0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EP0
+memberOf,"CN=RL.APP.Harvest.EP4.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ep4.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EP4
+memberOf,"CN=RL.App.Harvest.EPP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.epp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EPP
+memberOf,"CN=rl.app.harvest.erf.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.erf.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ERF
+memberOf,"CN=RL.App.Harvest.ERS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ers.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ERS
+memberOf,"CN=RL.App.Harvest.ESR.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.esr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ESR
+memberOf,"CN=RL.App.Harvest.ESS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ess.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ESS
+memberOf,"CN=RL.App.Harvest.EU.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.eu.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EU
+memberOf,"CN=RL.App.Harvest.EUG.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.eug.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EUG
+memberOf,"CN=rl.app.harvest.ewr.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ewr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EWR
+memberOf,"CN=rl.app.harvest.ews.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ews.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EWS
+memberOf,"CN=RL.App.Harvest.EX.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ex.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EX
+memberOf,"CN=rl.app.harvest.ey.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ey.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EY
+memberOf,"CN=RL.App.Harvest.EZ.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ez.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EZ
+memberOf,"CN=Rl.App.Harvest.f0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.f0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: F0
+memberOf,"CN=RL.App.Harvest.F1.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.f1.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: F1
+memberOf,"CN=RL.App.Harvest.F2.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.f2.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: F2
+memberOf,"CN=RL.App.Harvest.F3.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.f3.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: F3
+memberOf,"CN=RL.App.Harvest.F4.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.f4.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: F4
+memberOf,"CN=RL.App.Harvest.F5.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.f5.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: F5
+memberOf,"CN=RL.App.Harvest.F7.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.f7.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: F7
+memberOf,"CN=RL.App.Harvest.F8.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.f8.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: F8
+memberOf,"CN=RL.APP.Harvest.FAD.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fad.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FAD
+memberOf,"CN=RL.App.Harvest.FAS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fas.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FAS
+memberOf,"CN=RL.App.Harvest.FBI.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fbi.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FBI
+memberOf,"CN=RL.App.Harvest.FCC.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fcc.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FCC
+memberOf,"CN=RL.APP.Harvest.FCI.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fci.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FCI
+memberOf,"CN=RL.APP.HARVEST.FCL.DEVELOPERS,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fcl.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FCL
+memberOf,"CN=RL.App.Harvest.FCS.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fcs.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FCS
+memberOf,"CN=RL.APP.Harvest.FFL.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ffl.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FFL
+memberOf,"CN=RL.App.Harvest.FFR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ffr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FFR
+memberOf,"CN=RL.App.Harvest.FG.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fg.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FG
+memberOf,"CN=RL.App.Harvest.FH.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fh.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FH
+memberOf,"CN=RL.App.Harvest.FLD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fld.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FID
+memberOf,"CN=RL.App.Harvest.FM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FM
+memberOf,"CN=RL.App.Harvest.FMR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fmr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FMR
+memberOf,"CN=RL.APP.Harvest.FNE.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fne.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FNE
+memberOf,"CN=RL.App.Harvest.FNP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fnp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FNP
+memberOf,"CN=RL.App.Harvest.FOP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fop.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FOP
+memberOf,"CN=Rl.App.Harvest.For.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.for.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FOR
+memberOf,"CN=RL.App.Harvest.Fp.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FP
+memberOf,"CN=RL.App.Harvest.FPA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fpa.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FPA
+memberOf,"CN=RL.App.Harvest.FRD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.frd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FRD
+memberOf,"CN=RL.app.harvest.frr.developers,OU=ResourceMgmt,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.frr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FRR
+memberOf,"CN=rl.app.harvest.frs.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.frs.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FRS
+memberOf,"CN=RL.App.Harvest.ftw.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ftw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FTW
+memberOf,"CN=RL.App.Harvest.FV.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fv.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FV
+memberOf,"CN=rl.app.harvest.fvp.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fvp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FVP
+memberOf,"CN=RL.App.Harvest.FX.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fx.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FX
+memberOf,"CN=RL.App.Harvest.G0.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.g0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: G0
+memberOf,"CN=RL.APP.Harvest.G2.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.g2.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: G2
+memberOf,"CN=RL.App.Harvest.G6.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.g6.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: G6
+memberOf,"CN=RL.App.Harvest.G8.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.g8.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: G8
+memberOf,"CN=RL.App.Harvest.G9A.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.g9a.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: G9A
+memberOf,"CN=RL.App.Harvest.GCD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.gcd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: GCD
+memberOf,"CN=RL.App.Harvest.GEO.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.geo.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: GEO
+memberOf,"CN=RL.APP.HARVEST.GFK.DEVELOPERS,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.gfk.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: GFK
+memberOf,"CN=RL.App.Harvest.GG.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.gg.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: GG
+memberOf,"CN=RL.App.Harvest.GJ.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.gj.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: GJ
+memberOf,"CN=RL.App.Harvest.GK.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.gk.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: GK
+memberOf,"CN=rl.app.harvest.gl.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.gl.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: GL
+memberOf,"CN=RL.App.Harvest.GLN.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.gln.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: GLN
+memberOf,"CN=RL.App.Harvest.GLO.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.glo.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: GLO
+memberOf,"CN=RL.App.Harvest.GM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.gm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: GM
+memberOf,"CN=RL.App.Harvest.GQ.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.gq.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: GQ
+memberOf,"CN=RL.App.Harvest.GTS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.gts.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: GTS
+memberOf,"CN=RL.App.Harvest.H0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.h0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: H0
+memberOf,"CN=RL.APP.Harvest.H1.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.h1.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: H1
+memberOf,"CN=RL.App.Harvest.H2.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.h2.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: H2
+memberOf,"CN=RL.App.Harvest.H3.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.h3.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: H3
+memberOf,"CN=RL.APP.Harvest.H6.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.h6.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: H6
+memberOf,"CN=RL.App.Harvest.H7.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.h7.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: H7
+memberOf,"CN=RL.App.Harvest.H8.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.h8.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: H8
+memberOf,"CN=RL.App.Harvest.H8V.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.h8v.developers,A9SN3,TRUE,FALSE,FALSE,TRUE,Application Developers used to develop code to all Delivery Paths: H8V
+memberOf,"CN=rl.app.harvest.hex.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hex.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HEX
+memberOf,"CN=RL.APP.Harvest.HF.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hf.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HF
+memberOf,"CN=RL.App.Harvest.Hfm.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hfm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HFM
+memberOf,"CN=RL.App.Harvest.Hfr.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hfr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HFR
+memberOf,"CN=RL.App.Harvest.HG.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hg.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HG
+memberOf,"CN=RL.App.Harvest.HH.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hh.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HH
+memberOf,"CN=RL.App.Harvest.HLD.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hld.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HLD
+memberOf,"CN=RL.App.Harvest.HMP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hmp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HMP
+memberOf,"CN=RL.App.Harvest.HN.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hn.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HN
+memberOf,"CN=RL.APP.Harvest.HN0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hn0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HN0
+memberOf,"CN=RL.App.Harvest.HNM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hnm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HNM
+memberOf,"CN=rl.app.harvest.hoa.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hoa.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HOA
+memberOf,"CN=rl.app.harvest.hr.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HR
+memberOf,"CN=RL.App.Harvest.HRC.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hrc.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HRC
+memberOf,"CN=RL.App.Harvest.HRD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hrd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HRD
+memberOf,"CN=RL.App.Harvest.HRW.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hrw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HRW
+memberOf,"CN=RL.App.Harvest.Hw.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HW
+memberOf,"CN=RL.App.Harvest.HX.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hx.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HX
+memberOf,"CN=RL.App.Harvest.HY.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hy.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HY
+memberOf,"CN=RL.App.Harvest.HZ.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hz.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HZ
+memberOf,"CN=RL.App.Harvest.IAC.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.iac.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IAC
+memberOf,"CN=RL.App.Harvest.Iad.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.iad.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IAD
+memberOf,"CN=rl.app.harvest.ibw.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ibw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IBW
+memberOf,"CN=RL.App.Harvest.IC0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ic0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IC0
+memberOf,"CN=RL.App.Harvest.ICE.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ice.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ICE
+memberOf,"CN=rl.app.harvest.icn.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.icn.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ICN
+memberOf,"CN=RL.App.Harvest.ICV.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.icv.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ICV
+memberOf,"CN=RL.App.Harvest.Iel.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.iel.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IEL
+memberOf,"CN=RL.App.Harvest.IEX.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.iex.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IEX
+memberOf,"CN=RL.App.Harvest.IFA.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ifa.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IFA
+memberOf,"CN=RL.App.Harvest.IJ.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ij.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IJ
+memberOf,"CN=RL.App.Harvest.Ilc.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ilc.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ILC
+memberOf,"CN=RL.App.Harvest.IMP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.imp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IMP
+memberOf,"CN=RL.App.Harvest.IRM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.irm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IRM
+memberOf,"CN=RL.App.Harvest.IRR.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.irr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IRR
+memberOf,"CN=Rl.App.Harvest.Itd.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.itd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ITD
+memberOf,"CN=RL.App.Harvest.ITE.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ite.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ITE
+memberOf,"CN=RL.App.Harvest.ITK.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.itk.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ITK
+memberOf,"CN=RL.App.Harvest.IUO.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.iuo.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IUO
+memberOf,"CN=RL.App.Harvest.IUS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ius.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IUS
+memberOf,"CN=RL.App.Harvest.IUX.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.iux.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IUX
+memberOf,"CN=RL.App.Harvest.IVR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ivr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IVR
+memberOf,"CN=RL.App.Harvest.iwk.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.iwk.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IWK
+memberOf,"CN=RL.App.Harvest.IWT.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.iwt.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IWT
+memberOf,"CN=RL.App.Harvest.IY.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.iy.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: IIY
+memberOf,"CN=RL.App.Harvest.J0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.j0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: J0
+memberOf,"CN=rl.app.harvest.jen.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.jen.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: JEN
+memberOf,"CN=RL.App.Harvest.KF.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.kf.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: KF
+memberOf,"CN=RL.App.Harvest.KR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.kr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: KR
+memberOf,"CN=RL.App.Harvest.L1.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.l1.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: L1
+memberOf,"CN=rl.app.harvest.l2f.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.l2f.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: L2F
+memberOf,"CN=RL.App.Harvest.L3.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.l3.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: L3
+memberOf,"CN=RL.App.Harvest.LD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ld.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LD
+memberOf,"CN=RL.App.Harvest.LDM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ldm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LDM
+memberOf,"CN=RL.App.Harvest.LE.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.le.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LE
+memberOf,"CN=RL.App.Harvest.LEN.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.len.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LEN
+memberOf,"CN=RL.App.Harvest.LEP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lep.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LEP
+memberOf,"CN=RL.App.Harvest.LFT.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lft.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LFT
+memberOf,"CN=rl.app.harvest.lgm.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lgm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LGM
+memberOf,"CN=RL.App.Harvest.lie.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lie.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LIE
+memberOf,"CN=RL.App.Harvest.LIF.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lif.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LIF
+memberOf,"CN=RL.APP.Harvest.LMG.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lmg.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LMG
+memberOf,"CN=RL.App.Harvest.LMM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lmm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LMM
+memberOf,"CN=RL.App.Harvest.lnk.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lnk.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LNK
+memberOf,"CN=rl.app.harvest.lo.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lo.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LO
+memberOf,"CN=RL.App.Harvest.LOA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.loa.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LOA
+memberOf,"CN=RL.APP.Harvest.LOL.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lol.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LOL
+memberOf,"CN=rl.app.harvest.lor.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lor.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LOR
+memberOf,"CN=RL.App.Harvest.LPP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lpp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LPP
+memberOf,"CN=RL.App.Harvest.LR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LR
+memberOf,"CN=RL.App.Harvest.lts.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lts.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LTS
+memberOf,"CN=RL.APP.Harvest.LW.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LW
+memberOf,"CN=RL.App.Harvest.LX.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lx.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LX
+memberOf,"CN=RL.App.Harvest.LXR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lxr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LXR
+memberOf,"CN=RL.App.Harvest.M1.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.m1.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: M1
+memberOf,"CN=RL.App.Harvest.M3E.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.m3e.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: M3E
+memberOf,"CN=RL.App.Harvest.M7.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.m7.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: M7
+memberOf,"CN=rl.app.harvest.m8.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.m8.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: M8
+memberOf,"CN=RL.APP.Harvest.MAP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.map.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MAP
+memberOf,"CN=RL.App.Harvest.MBR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mbr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MBR
+memberOf,"CN=RL.App.Harvest.MCP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mcp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MCP
+memberOf,"CN=RL.App.Harvest.MCS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mcs.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MCS
+memberOf,"CN=RL.App.Harvest.MCW.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mcw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MCW
+memberOf,"CN=RL.App.Harvest.MD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.md.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MD
+memberOf,"CN=RL.App.Harvest.Mda.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mda.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MDA
+memberOf,"CN=RL.APP.Harvest.MDC.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mdc.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MDC
+memberOf,"CN=RL.App.Harvest.MDD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mdd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MDD
+memberOf,"CN=RL.App.Harvest.MDK.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mdk.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MDK
+memberOf,"CN=rl.app.harvest.mdo.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mdo.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MDO
+memberOf,"CN=RL.App.Harvest.MDS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mds.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MDS
+memberOf,"CN=RL.App.Harvest.MDT.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mdt.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MDT
+memberOf,"CN=RL.App.Harvest.mdz.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mdz.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MDZ
+memberOf,"CN=RL.App.Harvest.ME0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.me0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ME0
+memberOf,"CN=RL.APP.Harvest.Meg.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.meg.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MEG
+memberOf,"CN=RL.App.Harvest.Meu.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.meu.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MEU
+memberOf,"CN=RL.App.Harvest.MFD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mfd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MFD
+memberOf,"CN=RL.App.Harvest.MH.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mh.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MH
+memberOf,"CN=RL.App.Harvest.MHS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mhs.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MHS
+memberOf,"CN=RL.App.Harvest.MHT.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mht.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MHT
+memberOf,"CN=RL.App.Harvest.MIA.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mia.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MIA
+memberOf,"CN=RL.APP.Harvest.MLA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mla.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MLA
+memberOf,"CN=RL.App.Harvest.MLD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mld.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MLD
+memberOf,"CN=RL.App.Harvest.MM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MM
+memberOf,"CN=RL.APP.Harvest.MMA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mma.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MMA
+memberOf,"CN=RL.APP.Harvest.MMD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mmd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MMD
+memberOf,"CN=RL.App.Harvest.MME.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mme.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MME
+memberOf,"CN=RL.App.Harvest.MN.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mn.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MN
+memberOf,"CN=RL.App.Harvest.MO.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mo.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MO
+memberOf,"CN=RL.App.Harvest.MO0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mo0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MO0
+memberOf,"CN=RL.App.Harvest.MOU.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mou.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MOU
+memberOf,"CN=RL.App.Harvest.MPA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mpa.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MPA
+memberOf,"CN=RL.App.Harvest.MPW.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mpw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MPW
+memberOf,"CN=RL.APP.Harvest.MQA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mqa.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MQA
+memberOf,"CN=RL.APP.Harvest.MRG.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mrg.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MRG
+memberOf,"CN=RL.App.Harvest.MRK.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mrk.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MRL
+memberOf,"CN=RL.App.Harvest.MRL.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mrl.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MRM
+memberOf,"CN=RL.App.Harvest.mrm.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mrm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MRM
+memberOf,"CN=RL.APP.Harvest.MRW.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mrw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MRW
+memberOf,"CN=RL.App.Harvest.MSB.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.msb.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MSB
+memberOf,"CN=Rl.App.Harvest.Msd.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.msd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MSD
+memberOf,"CN=RL.App.Harvest.MST.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mst.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MST
+memberOf,"CN=rl.app.harvest.msu.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.msu.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MSU
+memberOf,"CN=RL.App.Harvest.Mtr.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mtr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MTR
+memberOf,"CN=RL.App.Harvest.MTS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mts.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MTS
+memberOf,"CN=RL.App.Harvest.MTZ.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mtz.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MTZ
+memberOf,"CN=RL.App.Harvest.Mur.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mur.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MUR
+memberOf,"CN=RL.App.Harvest.MWM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mwm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MWM
+memberOf,"CN=rl.app.harvest.nac.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.nac.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: NAC
+memberOf,"CN=rl.app.harvest.nao.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.nao.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: NAO
+memberOf,"CN=rl.app.harvest.ncm.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ncm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: NCM
+memberOf,"CN=RL.App.Harvest.NEW.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.new.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: NEW
+memberOf,"CN=RL.App.Harvest.NKM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.nkm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: NKM
+memberOf,"CN=RL.App.Harvest.NKU.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.nku.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: NKU
+memberOf,"CN=RL.APP.Harvest.NTG.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ntg.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: NTG
+memberOf,"CN=RL.App.Harvest.OBS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.obs.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: OBS
+memberOf,"CN=RL.App.Harvest.OD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.od.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: OD
+memberOf,"CN=RL.App.Harvest.ODB.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.odb.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ODB
+memberOf,"CN=RL.App.Harvest.ody.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ody.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ODY
+memberOf,"CN=RL.App.Harvest.OFA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ofa.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: OFA
+memberOf,"CN=RL.App.Harvest.OI.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.oi.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: OI
+memberOf,"CN=RL.App.Harvest.OIM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.oim.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: OIM
+memberOf,"CN=RL.App.Harvest.OK.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ok.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: OK
+memberOf,"CN=RL.App.Harvest.OKL.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.okl.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: OKL
+memberOf,"CN=RL.APP.Harvest.ONW.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.onw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ONW
+memberOf,"CN=RL.App.Harvest.Oot.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.oot.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: OOT
+memberOf,"CN=RL.APP.Harvest.OPP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.opp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: OPP
+memberOf,"CN=RL.App.Harvest.OPS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ops.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: OPS
+memberOf,"CN=RL.App.Harvest.ORD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ord.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ORD
+memberOf,"CN=RL.App.Harvest.ORG.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.org.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ORG
+memberOf,"CN=rl.app.harvest.osp.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.osp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: OSP
+memberOf,"CN=RL.App.Harvest.OUA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.oua.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: OUA
+memberOf,"CN=RL.App.Harvest.OX.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ox.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: OX
+memberOf,"CN=RL.App.Harvest.PAB.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.pab.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PAB
+memberOf,"CN=RL.App.Harvest.Paf.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.paf.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PAF
+memberOf,"CN=RL.App.Harvest.PAL.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.pal.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PAL
+memberOf,"CN=RL.App.Harvest.PAS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.pas.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PAS
+memberOf,"CN=RL.App.Harvest.Pbp.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.pbp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PBP
+memberOf,"CN=RL.App.Harvest.PCE.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.pce.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PCE
+memberOf,"CN=RL.App.Harvest.pcg.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.pcg.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PCG
+memberOf,"CN=RL.App.Harvest.PI.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.pi.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PI
+memberOf,"CN=RL.App.Harvest.PLT.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.plt.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PLT
+memberOf,"CN=RL.App.Harvest.pmm.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.pmm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PMM
+memberOf,"CN=rl.app.harvest.pmt.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.pmt.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PMT
+memberOf,"CN=RL.App.Harvest.PPM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ppm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PPM
+memberOf,"CN=RL.App.Harvest.PQT.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.pqt.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PQT
+memberOf,"CN=RL.App.Harvest.PRA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.pra.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PRA
+memberOf,"CN=RL.App.Harvest.Prs.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.prs.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PRS
+memberOf,"CN=RL.App.Harvest.PSD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.psd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PSD
+memberOf,"CN=RL.App.Harvest.PTK.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ptk.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PTK
+memberOf,"CN=RL.APP.Harvest.PWC.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.pwc.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PWC
+memberOf,"CN=rl.app.harvest.pwf.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.pwf.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PWF
+memberOf,"CN=RL.App.Harvest.PY.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.py.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PY
+memberOf,"CN=RL.App.Harvest.QBM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qbm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QBM
+memberOf,"CN=RL.APP.Harvest.QCG.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qcg.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QCG
+memberOf,"CN=rl.app.harvest.qd.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QD
+memberOf,"CN=RL.App.Harvest.QF0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qf0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QF0
+memberOf,"CN=RL.App.Harvest.QLn.PROMOTERS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qln.PROMOTERS,A9SN3,TRUE,TRUE,FALSE,FALSE,Application PROMOTERS used to PROMOTERS packages to move to all environments: QLN
+memberOf,"CN=RL.App.Harvest.QLN_Audit.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qln_audit.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLN_AUDIT
+memberOf,"CN=RL.App.Harvest.QLN_CIB.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qln_cib.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLN_CIB
+memberOf,"CN=RL.App.Harvest.QLN_COE.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qln_coe.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLN_COE
+memberOf,"CN=RL.App.Harvest.QLN_Consumer.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qln_consumer.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLN_CONSUMER
+memberOf,"CN=RL.App.Harvest.QLN_EIS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qln_eis.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLN_EIS
+memberOf,"CN=RL.App.Harvest.QLN_Finance.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qln_finance.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLN_FINANCE
+memberOf,"CN=RL.App.Harvest.QLN_HR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qln_hr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLN_HR
+memberOf,"CN=RL.App.Harvest.QLN_Marketing.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qln_marketing.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLN_MARKETING
+memberOf,"CN=RL.App.Harvest.QLN_Mortgage.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qln_mortgage.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLN_MORTGAGE
+memberOf,"CN=RL.App.Harvest.QLN_Risk.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qln_risk.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLN_RISK
+memberOf,"CN=RL.App.Harvest.QLN_Wholesale.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qln_wholesale.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLN_WHOLESALE
+memberOf,"CN=RL.App.Harvest.QLS.PROMOTERS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qls.PROMOTERS,A9SN3,TRUE,TRUE,FALSE,FALSE,Application PROMOTERS used to PROMOTERS packages to move to all environments: QLS
+memberOf,"CN=rl.app.harvest.QLS_Audit.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qls_audit.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLS_AUDIT
+memberOf,"CN=rl.app.harvest.QLS_CIB.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qls_cib.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLS_CIB
+memberOf,"CN=rl.app.harvest.QLS_COE.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qls_coe.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLS_COE
+memberOf,"CN=rl.app.harvest.QLS_Consumer.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qls_consumer.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLS_CONSUMER
+memberOf,"CN=rl.app.harvest.QLS_EIS.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qls_eis.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLS_EIS
+memberOf,"CN=rl.app.harvest.QLS_Finance.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qls_finance.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLS_FINANCE
+memberOf,"CN=rl.app.harvest.QLS_HR.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qls_hr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLS_HR
+memberOf,"CN=rl.app.harvest.QLS_Marketing.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qls_marketing.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLS_MARKETING
+memberOf,"CN=rl.app.harvest.QLS_Mortgage.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qls_mortgage.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLS_MORTGAGE
+memberOf,"CN=rl.app.harvest.QLS_Risk.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qls_risk.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLS_RISK
+memberOf,"CN=rl.app.harvest.QLS_Wholesale.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qls_wholesale.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLS_WHOLESALE
+memberOf,"CN=RL.App.Harvest.QLV.Promoters,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qlv.promoters,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Promoters used to develop code to all Delivery Paths: QLV
+memberOf,"CN=RL.APP.Harvest.QLV_Audit.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qlv_audit.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLV_AUDIT
+memberOf,"CN=RL.APP.Harvest.QLV_CIB.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qlv_cib.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLV_CIB
+memberOf,"CN=RL.APP.Harvest.Qlv_coe.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qlv_coe.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLV_COE
+memberOf,"CN=RL.APP.Harvest.Qlv_consumer.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qlv_consumer.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLV_CONSUMER
+memberOf,"CN=RL.App.Harvest.QLV_EIS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qlv_eis.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLV_EIS
+memberOf,"CN=RL.App.Harvest.QLV_Finance.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qlv_finance.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLV_FINANCE
+memberOf,"CN=RL.App.Harvest.QLV_HR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qlv_hr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLV_HR
+memberOf,"CN=RL.App.Harvest.QLV_Marketing.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qlv_marketing.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLV_MARKETING
+memberOf,"CN=RL.App.Harvest.QLV_Mortgage.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qlv_mortgage.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLV_MORTGAGE
+memberOf,"CN=RL.App.Harvest.QLV_Risk.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qlv_risk.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLV_RISK
+memberOf,"CN=RL.App.Harvest.QLV_Wholesale.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qlv_wholesale.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QLV_WHOLESALE
+memberOf,"CN=RL.App.Harvest.QRM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qrm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QRM
+memberOf,"CN=RL.App.Harvest.QSA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qsa.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QSA
+memberOf,"CN=RL.App.Harvest.QSV.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.qsv.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: QSV
+memberOf,"CN=RL.App.Harvest.RAL.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ral.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RAL
+memberOf,"CN=RL.App.Harvest.RAP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rap.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RAP
+memberOf,"CN=RL.App.Harvest.RAR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rar.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RAR
+memberOf,"CN=RL.App.Harvest.RBP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rbp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RBP
+memberOf,"CN=RL.App.Harvest.RCA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rca.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RCA
+memberOf,"CN=RL.App.Harvest.RCH.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rch.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RCH
+memberOf,"CN=RL.App.Harvest.RDR_BR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rdr_br.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RDR_BR
+memberOf,"CN=RL.App.Harvest.RDW.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rdw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RDW
+memberOf,"CN=RL.App.Harvest.rdw_readonly.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rdw_readonly.developers,A9SN3,TRUE,FALSE,FALSE,TRUE,Application Developers used to develop code to all Delivery Paths: RDW_RADONLY
+memberOf,"CN=RL.App.Harvest.RE.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.re.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RE
+memberOf,"CN=RL.App.Harvest.ReadOnly.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.readonly.developers,A9SN3,TRUE,FALSE,FALSE,TRUE,Application Developers used to develop code to all Delivery Paths: READONLY
+memberOf,"CN=RL.APP.Harvest.Red.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.red.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RED
+memberOf,"CN=RL.App.Harvest.REM.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rem.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: REM
+memberOf,"CN=RL.APP.Harvest.REO.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.reo.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: REO
+memberOf,"CN=RL.App.Harvest.Rep.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rep.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: REP
+memberOf,"CN=RL.App.Harvest.RES.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.res.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RES
+memberOf,"CN=RL.App.Harvest.RET.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ret.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RET
+memberOf,"CN=rl.app.harvest.rew.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rew.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: REW
+memberOf,"CN=RL.App.Harvest.RFH.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rfh.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RFH
+memberOf,"CN=RL.App.Harvest.RFM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rfm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RFM
+memberOf,"CN=RL.App.Harvest.Rfp.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rfp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RFP
+memberOf,"CN=RL.App.Harvest.RFR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rfr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RFR
+memberOf,"CN=RL.App.Harvest.RH.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rh.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RH
+memberOf,"CN=RL.App.Harvest.RIA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ria.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RIA
+memberOf,"CN=rl.app.harvest.rim.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rim.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RIM
+memberOf,"CN=RL.APP.Harvest.RIN.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rin.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RIN
+memberOf,"CN=RL.App.Harvest.RJ.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rj.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RJ
+memberOf,"CN=RL.APP.Harvest.RLP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rlp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RLP
+memberOf,"CN=rl.app.harvest.rm0.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rm0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RM0
+memberOf,"CN=RL.App.Harvest.RQ.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rq.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RQ
+memberOf,"CN=RL.App.Harvest.RQA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rqa.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RQA
+memberOf,"CN=RL.App.Harvest.RR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RR
+memberOf,"CN=RL.App.Harvest.RRQ.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rrq.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RRQ
+memberOf,"CN=RL.App.Harvest.RSP.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rsp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RSP
+memberOf,"CN=RL.App.Harvest.RTE.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rte.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RTE
+memberOf,"CN=RL.App.Harvest.RUA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rua.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RUA
+memberOf,"CN=RL.App.Harvest.S2.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.s2.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: S2
+memberOf,"CN=RL.App.Harvest.S7.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.s7.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: S7
+memberOf,"CN=RL.App.Harvest.S90.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.s90.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: S90
+memberOf,"CN=RL.App.Harvest.S91.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.s91.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: S91
+memberOf,"CN=RL.App.Harvest.SBL.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.sbl.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SBL
+memberOf,"CN=RL.App.Harvest.Sco.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.sco.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SCO
+memberOf,"CN=RL.App.Harvest.SCS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.scs.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SCS
+memberOf,"CN=RL.App.Harvest.SCT.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.sct.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SCT
+memberOf,"CN=RL.App.Harvest.SD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.sd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SD
+memberOf,"CN=RL.App.Harvest.SDA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.sda.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SDA
+memberOf,"CN=rl.app.harvest.sdl.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.sdl.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SDL
+memberOf,"CN=RL.App.Harvest.SDR.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.sdr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SDR
+memberOf,"CN=RL.APP.Harvest.SDW.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.sdw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SDW
+memberOf,"CN=RL.App.Harvest.Ses.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ses.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SES
+memberOf,"CN=RL.App.Harvest.SFD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.sfd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SFD
+memberOf,"CN=RL.App.Harvest.SFO.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.sfo.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SFO
+memberOf,"CN=Rl.App.Harvest.Shp.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.shp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SHP
+memberOf,"CN=RL.App.Harvest.SIA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.sia.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SIA
+memberOf,"CN=RL.App.Harvest.Sir.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.sir.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SIR
+memberOf,"CN=RL.App.Harvest.SME.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.sme.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SME
+memberOf,"CN=RL.App.Harvest.SMI.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.smi.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SMI
+memberOf,"CN=rl.app.harvest.smp.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.smp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SMP
+memberOf,"CN=RL.App.Harvest.SMT.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.smt.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SMT
+memberOf,"CN=RL.App.Harvest.SNE.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.sne.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SNE
+memberOf,"CN=RL.App.Harvest.SPI.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.spi.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SPI
+memberOf,"CN=RL.APP.HARVEST.SPV.DEVELOPERS,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.spv.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SPV
+memberOf,"CN=RL.App.Harvest.SRT.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.srt.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SRT
+memberOf,"CN=RL.APP.Harvest.SSA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ssa.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SSA
+memberOf,"CN=RL.App.Harvest.STN.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.stn.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: STN
+memberOf,"CN=RL.App.Harvest.STW.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.stw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: STW
+memberOf,"CN=RL.APP.Harvest.SWO.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.swo.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SWO
+memberOf,"CN=RL.App.Harvest.TAD.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tad.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TAD
+memberOf,"CN=rl.app.harvest.tba.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tba.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TBA
+memberOf,"CN=RL.App.Harvest.TBM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tbm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TBM
+memberOf,"CN=RL.App.Harvest.TC.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tc.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TC
+memberOf,"CN=RL.App.Harvest.TCP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tcp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TCP
+memberOf,"CN=RL.App.Harvest.TCR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tcr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TCR
+memberOf,"CN=RL.App.Harvest.TDI.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tdi.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TDI
+memberOf,"CN=RL.App.Harvest.tds.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tds.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TDS
+memberOf,"CN=RL.APP.Harvest.TDX.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tdx.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TDX
+memberOf,"CN=RL.App.Harvest.TE0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.te0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TE0
+memberOf,"CN=RL.App.Harvest.TFS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tfs.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TFS
+memberOf,"CN=RL.App.Harvest.TIM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tim.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TIM
+memberOf,"CN=RL.App.Harvest.TIP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tip.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TIP
+memberOf,"CN=RL.APP.Harvest.TMI.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tmi.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TMI
+memberOf,"CN=RL.App.Harvest.TMN.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tmn.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TMN
+memberOf,"CN=RL.App.Harvest.Toe.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.toe.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TOE
+memberOf,"CN=RL.App.Harvest.TOF.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tof.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TOF
+memberOf,"CN=RL.App.Harvest.tpa.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tpa.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TPA
+memberOf,"CN=RL.App.Harvest.TPR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tpr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TPR
+memberOf,"CN=RL.APP.Harvest.TR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tr.developers,A9SN3,TRUE,FALSE,FALSE,TRUE,Application Developers used to develop code to all Delivery Paths: TR
+memberOf,"CN=rl.app.harvest.trg.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.trg.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TRG
+memberOf,"CN=RL.App.Harvest.TRL.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.trl.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TRL
+memberOf,"CN=RL.App.Harvest.TRO.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tro.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TRO
+memberOf,"CN=RL.App.Harvest.Tsp.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tsp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TSP
+memberOf,"CN=RL.App.Harvest.TTK.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ttk.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TTK
+memberOf,"CN=RL.App.Harvest.TVS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tvs.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TVS
+memberOf,"CN=RL.App.Harvest.TW.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TW
+memberOf,"CN=RL.App.Harvest.Uat.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.uat.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: UAT
+memberOf,"CN=RL.APP.Harvest.UBI.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ubi.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: UBI
+memberOf,"CN=RL.App.Harvest.UCM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ucm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: UCM
+memberOf,"CN=RL.App.Harvest.UI0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ui0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: UI0
+memberOf,"CN=RL.App.Harvest.UKS.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.uks.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: UKS
+memberOf,"CN=RL.App.Harvest.ULA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ula.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ULA
+memberOf,"CN=RL.APP.Harvest.UNI.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.uni.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: UNI
+memberOf,"CN=RL.App.Harvest.UPK.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.upk.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: UPK
+memberOf,"CN=RL.App.Harvest.VAR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.var.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: VAR
+memberOf,"CN=RL.App.Harvest.VF.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.vf.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: VF
+memberOf,"CN=RL.App.Harvest.Vms.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.vms.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: VMS
+memberOf,"CN=RL.App.Harvest.VN.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.vn.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: VN
+memberOf,"CN=RL.App.Harvest.Vnw.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.vnw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: VNW
+memberOf,"CN=RL.App.Harvest.VO.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.vo.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: VO
+memberOf,"CN=RL.App.Harvest.VR.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.vr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: VR
+memberOf,"CN=RL.App.Harvest.VTL.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.vtl.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: VTL
+memberOf,"CN=RL.App.Harvest.VU0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.vu0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: VU0
+memberOf,"CN=RL.App.Harvest.VW0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.vw0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: VW0
+memberOf,"CN=RL.App.Harvest.W3.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.w3.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: W3
+memberOf,"CN=RL.App.Harvest.W4W.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.w4w.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: W4W
+memberOf,"CN=RL.App.Harvest.W5.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.w5.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: W5
+memberOf,"CN=RL.App.Harvest.W7.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.w7.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: W7
+memberOf,"CN=RL.App.Harvest.W8.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.w8.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: W8
+memberOf,"CN=RL.App.Harvest.W9.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.w9.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: W9
+memberOf,"CN=RL.App.Harvest.W9R.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.w9r.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: W9R
+memberOf,"CN=RL.APP.Harvest.WAD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.wad.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: WAD
+memberOf,"CN=RL.App.Harvest.WB.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.wb.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: WB
+memberOf,"CN=RL.APP.Harvest.WCP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.wcp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: WCP
+memberOf,"CN=RL.App.Harvest.WMB.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.wmb.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: WMB
+memberOf,"CN=RL.APP.Harvest.WOL.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.wol.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: WOL
+memberOf,"CN=RL.App.Harvest.Wpr.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.wpr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: WPR
+memberOf,"CN=RL.App.Harvest.WR0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.wr0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: WR0
+memberOf,"CN=RL.App.Harvest.WST.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.wst.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: WST
+memberOf,"CN=RL.App.Harvest.WT2.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.wt2.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: WT2
+memberOf,"CN=RL.App.Harvest.wtw.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.wtw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: WTW
+memberOf,"CN=RL.App.Harvest.wtz.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.wtz.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: WTZ
+memberOf,"CN=RL.App.Harvest.WU.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.wu.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: WU
+memberOf,"CN=rl.app.harvest.wub.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.wub.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: WUB
+memberOf,"CN=RL.App.Harvest.XM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.xm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: XM
+memberOf,"CN=RL.App.Harvest.XNM.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.xnm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: XNM
+memberOf,"CN=RL.App.Harvest.XNX.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.xnx.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: XNX
+memberOf,"CN=RL.App.Harvest.XO.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.xo.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: XO
+memberOf,"CN=RL.App.Harvest.XU.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.xu.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: XU0
+memberOf,"CN=RL.APP.Harvest.XU0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.xu0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: XU0
+memberOf,"CN=RL.App.Harvest.FSO.Developer,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fso.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FSO
+memberOf,"CN=RL.App.Harvest.B6.Developers,OU=ADS,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code RL.App.Harvest.B6.Developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: B6
+memberOf,"CN=RL.App.Harvest.B8.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code RL.App.Harvest.B8.Developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: B8
+memberOf,"CN=RL.App.Harvest.BCC.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code RL.App.Harvest.BCC.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FSO
+memberOf,"CN=RL.App.Harvest.EN_Bisync.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code RL.App.Harvest.EN_Bisync.Developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EN_Bisync
+memberOf,"CN=RL.App.Harvest.AMI.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ami.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: AMI
+memberOf,"CN=rl.app.harvest.aw.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.aw.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: AW
+memberOf,"CN=RL.App.Harvest.BPI.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.bpi.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: BPI
+memberOf,"CN=rl.app.harvest.c9g.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.c9g.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CG9
+memberOf,"CN=rl.app.harvest.cmb_emr.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.cmb_emr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CMB_EMR
+memberOf,"CN=RL.APP.Harvest.CT9.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ct9.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: CT9
+memberOf,"CN=RL.App.Harvest.DFD.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.dfd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: DFD
+memberOf,"CN=RL.App.Harvest.E9.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.e9.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: E9
+memberOf,"CN=RL.App.Harvest.ECP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ecp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ECP
+memberOf,"CN=RL.App.Harvest.ENF.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.enf.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ENF
+memberOf,"CN=RL.App.Harvest.EP5.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ep5.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: EP5
+memberOf,"CN=RL.App.Harvest.FCA.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.fca.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FCA
+memberOf,"CN=RL.APP.Harvest.FFU.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ffu.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: FLU
+memberOf,"CN=rl.app.harvest.hrt.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.hrt.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: HRT
+memberOf,"CN=RL.APP.Harvest.ILM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ilm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: ILM
+memberOf,"CN=RL.App.Harvest.LSP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.lsp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: LSP
+memberOf,"CN=RL.APP.Harvest.MBM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.mbm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MBM
+memberOf,"CN=RL.APP.Harvest.MSQ.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.msq.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: MSQ
+memberOf,"CN=rl.app.harvest.nao_readonly.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.nao_readonly.developers,A9SN3,TRUE,FALSE,FALSE,TRUE,Application Developers used to develop code to all Delivery Paths: Nao Read oonly
+memberOf,"CN=RL.App.Harvest.OA0.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.oa0.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: OA0
+memberOf,"CN=rl.app.harvest.ose.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ose.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: OSE
+memberOf,"CN=rl.app.harvest.pvr.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.pvr.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: PVR
+memberOf,"CN=RL.APP.Harvest.rdr_readonly.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rdr_readonly.developers,A9SN3,TRUE,FALSE,FALSE,TRUE,Application Developers used to develop code to all Delivery Paths: RDR Read only
+memberOf,"CN=RL.APP.Harvest.RSI.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.rsi.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: RSI
+memberOf,"CN=RL.APP.Harvest.SSP.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.ssp.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: SSP
+memberOf,"CN=RL.App.Harvest.TFF.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tff.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TFF
+memberOf,"CN=RL.App.Harvest.TPG.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.tpg.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: TPG
+memberOf,"CN=RL.APP.Harvest.UTM.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.utm.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: UTM 
+memberOf,"CN=RL.App.Harvest.VOY.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.voy.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: VOY
+memberOf,"CN=RL.App.Harvest.WT.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.wt.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: WT
+memberOf,"CN=RL.APP.Harvest.X9A.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.x9a.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: X9A
+memberOf,"CN=RL.APP.Harvest.X9U.Developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.x9u.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: X9U
+memberOf,"CN=rl.app.harvest.xd.developers,OU=Groups,DC=corp,DC=suntrust,DC=com",Develop Code rl.app.harvest.xd.developers,A9SN3,TRUE,FALSE,FALSE,FALSE,Application Developers used to develop code to all Delivery Paths: XD
+memberOf,"CN=RL.App.Harvest.Groups,OU=Groups,DC=corp,DC=suntrust,DC=com",RL.App.Harvest.Groups,A9SN3,TRUE,FALSE,FALSE,FALSE,Master group all Harevst groups belong to for AD sync purposes
+memberOf,"CN=rl.app.harvest.financeopeations.approvers,OU=Groups,DC=corp,DC=suntrust,DC=com",rl.app.harvest.financeopeations.approvers,A9SN3,TRUE,TRUE,FALSE,FALSE,Application Approvers used to approve packages to move to all environments: Finance Operations
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
